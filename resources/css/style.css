@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+}
+#top{
+  background-image: url("/Users/kawaihung/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png");
+}
+a{
+  font-size: 18px;
+  color:white;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+h4{
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+  background-image: url("/Users/kawaihung/Desktop/Projects/Broadway/resources/images/the-flatiron-building.png");
+}
+.bottom{
+  background-color: dimgray;
+  text-align: left;
+}
+h5{
+  font-size: 11px;
+  color:white;
+}
